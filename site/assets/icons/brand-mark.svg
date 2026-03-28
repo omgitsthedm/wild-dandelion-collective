@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">The Wild Dandelion Collective brand mark</title>
+  <desc id="desc">A warm circular monogram with dandelion-inspired lines.</desc>
+  <defs>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d47a2c"/>
+      <stop offset="100%" stop-color="#5e7b54"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="#f6f1e5"/>
+  <circle cx="64" cy="64" r="44" fill="none" stroke="#d8d0bf" stroke-width="2"/>
+  <g stroke="url(#petal)" stroke-linecap="round" stroke-width="3">
+    <line x1="64" y1="64" x2="64" y2="26"/>
+    <line x1="64" y1="64" x2="89" y2="36"/>
+    <line x1="64" y1="64" x2="102" y2="64"/>
+    <line x1="64" y1="64" x2="89" y2="92"/>
+    <line x1="64" y1="64" x2="64" y2="102"/>
+    <line x1="64" y1="64" x2="39" y2="92"/>
+    <line x1="64" y1="64" x2="26" y2="64"/>
+    <line x1="64" y1="64" x2="39" y2="36"/>
+  </g>
+  <circle cx="64" cy="64" r="9" fill="#304026"/>
+  <path d="M48 88c7 10 25 10 32 0" fill="none" stroke="#304026" stroke-linecap="round" stroke-width="4"/>
+</svg>
